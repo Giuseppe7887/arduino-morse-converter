@@ -17,4 +17,4 @@ cd arduino-morse-converter
 ```
 
 Once you have the souce code you just need to copy and run it on 
-an IDE that support mycropython, such as Thonny or Arduino for Mycropython
+an IDE that support Micropython, such as Thonny or Arduino for Micropython
